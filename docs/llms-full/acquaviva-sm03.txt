@@ -1,0 +1,24 @@
+# Acquaviva — San Marino Administrative Divisions
+
+> 3 localitys
+> Code: SM03
+> Coordinates: 43.943, 12.425
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Acquaviva
+
+Code: SM03L001, Coordinates: 43.945, 12.418
+
+
+### Gualdicciolo
+
+Code: SM03L003, Coordinates: 43.95, 12.407
+
+
+### Ventoso
+
+Code: SM03L002, Coordinates: 43.955, 12.44
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "SM09L001",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Poggio di Chiesanuova",
+    "en": "Poggio di Chiesanuova",
+    "slug": "poggio-di-chiesanuova-sm09l001"
+  },
+  "code": {
+    "id": "SM09L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM09",
+    "level": 1,
+    "name": {
+      "local": "Chiesanuova",
+      "en": "Chiesanuova",
+      "slug": "chiesanuova-sm09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM09",
+      "level": 1,
+      "name": {
+        "local": "Chiesanuova",
+        "en": "Chiesanuova",
+        "slug": "chiesanuova-sm09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.905",
+    "lon": "12.421"
+  },
+  "metadata": {},
+  "source": {}
+}

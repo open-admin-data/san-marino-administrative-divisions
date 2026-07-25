@@ -1,0 +1,182 @@
+[
+  {
+    "id": "SM05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cailungo",
+      "en": "Cailungo",
+      "slug": "cailungo-sm05l004"
+    },
+    "code": {
+      "id": "SM05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.952",
+      "lon": "12.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fiorina",
+      "en": "Fiorina",
+      "slug": "fiorina-sm05l002"
+    },
+    "code": {
+      "id": "SM05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.958",
+      "lon": "12.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lesignano",
+      "en": "Lesignano",
+      "slug": "lesignano-sm05l001"
+    },
+    "code": {
+      "id": "SM05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.962",
+      "lon": "12.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Piandivello",
+      "en": "Piandivello",
+      "slug": "piandivello-sm05l003"
+    },
+    "code": {
+      "id": "SM05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.95",
+      "lon": "12.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

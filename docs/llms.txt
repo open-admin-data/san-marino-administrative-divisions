@@ -1,0 +1,68 @@
+# San Marino Administrative Divisions
+
+> Open dataset of San Marino's administrative hierarchy:
+> 9 municipalitys, 20 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total municipalitys: 9
+- Total localitys: 20
+- Coordinates: included (all levels)
+- Last updated: 2026-07-25
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/data/all-castello.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/data/schema.json)
+
+## Browse by Municipality
+
+- [Borgo Maggiore](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/borgo-maggiore-sm01/) — 5 localitys
+- [San Marino](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/san-marino-sm02/) — 1 localitys
+- [Acquaviva](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/acquaviva-sm03/) — 3 localitys
+- [Serravalle](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/serravalle-sm04/) — 2 localitys
+- [Domagnano](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/domagnano-sm05/) — 4 localitys
+- [Faetano](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/faetano-sm06/) — 2 localitys
+- [Montegiardino](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/montegiardino-sm07/) — 0 localitys
+- [Fiorentino](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/fiorentino-sm08/) — 2 localitys
+- [Chiesanuova](https://github.com/open-admin-data/san-marino-administrative-divisions/tree/main/divisions/chiesanuova-sm09/) — 1 localitys
+
+## Per-Municipality Full Data
+
+- [Borgo Maggiore](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/borgo-maggiore-sm01.txt)
+- [San Marino](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/san-marino-sm02.txt)
+- [Acquaviva](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/acquaviva-sm03.txt)
+- [Serravalle](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/serravalle-sm04.txt)
+- [Domagnano](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/domagnano-sm05.txt)
+- [Faetano](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/faetano-sm06.txt)
+- [Montegiardino](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/montegiardino-sm07.txt)
+- [Fiorentino](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/fiorentino-sm08.txt)
+- [Chiesanuova](https://raw.githubusercontent.com/open-admin-data/san-marino-administrative-divisions/main/docs/llms-full/chiesanuova-sm09.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (municipality), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+San Marino Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/san-marino-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

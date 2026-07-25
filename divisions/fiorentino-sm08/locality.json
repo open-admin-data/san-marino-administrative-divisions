@@ -1,0 +1,92 @@
+[
+  {
+    "id": "SM08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cerbaiola",
+      "en": "Cerbaiola",
+      "slug": "cerbaiola-sm08l002"
+    },
+    "code": {
+      "id": "SM08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM08",
+      "level": 1,
+      "name": {
+        "local": "Fiorentino",
+        "en": "Fiorentino",
+        "slug": "fiorentino-sm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM08",
+        "level": 1,
+        "name": {
+          "local": "Fiorentino",
+          "en": "Fiorentino",
+          "slug": "fiorentino-sm08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.903",
+      "lon": "12.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Monte Giardino",
+      "en": "Monte Giardino",
+      "slug": "monte-giardino-sm08l001"
+    },
+    "code": {
+      "id": "SM08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM08",
+      "level": 1,
+      "name": {
+        "local": "Fiorentino",
+        "en": "Fiorentino",
+        "slug": "fiorentino-sm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM08",
+        "level": 1,
+        "name": {
+          "local": "Fiorentino",
+          "en": "Fiorentino",
+          "slug": "fiorentino-sm08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.909",
+      "lon": "12.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

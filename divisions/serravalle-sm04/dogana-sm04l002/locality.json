@@ -1,0 +1,45 @@
+{
+  "id": "SM04L002",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dogana",
+    "en": "Dogana",
+    "slug": "dogana-sm04l002"
+  },
+  "code": {
+    "id": "SM04L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM04",
+    "level": 1,
+    "name": {
+      "local": "Serravalle",
+      "en": "Serravalle",
+      "slug": "serravalle-sm04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM04",
+      "level": 1,
+      "name": {
+        "local": "Serravalle",
+        "en": "Serravalle",
+        "slug": "serravalle-sm04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.98",
+    "lon": "12.491"
+  },
+  "metadata": {},
+  "source": {}
+}

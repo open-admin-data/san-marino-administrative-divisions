@@ -1,0 +1,33 @@
+{
+  "id": "SM07",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Montegiardino",
+    "en": "Montegiardino",
+    "slug": "montegiardino-sm07"
+  },
+  "code": {
+    "id": "SM07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.91",
+    "lon": "12.489"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/montegiardino-sm07/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

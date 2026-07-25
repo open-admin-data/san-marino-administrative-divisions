@@ -1,0 +1,14 @@
+# Chiesanuova — San Marino Administrative Divisions
+
+> 1 localitys
+> Code: SM09
+> Coordinates: 43.909, 12.421
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Poggio di Chiesanuova
+
+Code: SM09L001, Coordinates: 43.905, 12.421
+
+

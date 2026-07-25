@@ -1,0 +1,33 @@
+{
+  "id": "SM08",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Fiorentino",
+    "en": "Fiorentino",
+    "slug": "fiorentino-sm08"
+  },
+  "code": {
+    "id": "SM08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.906",
+    "lon": "12.475"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/fiorentino-sm08/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SM05L004",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cailungo",
+    "en": "Cailungo",
+    "slug": "cailungo-sm05l004"
+  },
+  "code": {
+    "id": "SM05L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM05",
+    "level": 1,
+    "name": {
+      "local": "Domagnano",
+      "en": "Domagnano",
+      "slug": "domagnano-sm05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.952",
+    "lon": "12.454"
+  },
+  "metadata": {},
+  "source": {}
+}

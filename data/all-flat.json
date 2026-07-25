@@ -1,0 +1,302 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/sm/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/san-marino-administrative-divisions",
+  "data": [
+    {
+      "id": "SM01",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      },
+      "code": {
+        "id": "SM01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.946",
+        "lon": "12.457"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/borgo-maggiore-sm01/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM02",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "San Marino",
+        "en": "San Marino",
+        "slug": "san-marino-sm02"
+      },
+      "code": {
+        "id": "SM02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.924",
+        "lon": "12.444"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/san-marino-sm02/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM03",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      },
+      "code": {
+        "id": "SM03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.943",
+        "lon": "12.425"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/acquaviva-sm03/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM04",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Serravalle",
+        "en": "Serravalle",
+        "slug": "serravalle-sm04"
+      },
+      "code": {
+        "id": "SM04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.97",
+        "lon": "12.486"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/serravalle-sm04/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM05",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      },
+      "code": {
+        "id": "SM05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.945",
+        "lon": "12.478"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/domagnano-sm05/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM06",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Faetano",
+        "en": "Faetano",
+        "slug": "faetano-sm06"
+      },
+      "code": {
+        "id": "SM06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.932",
+        "lon": "12.498"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/faetano-sm06/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM07",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Montegiardino",
+        "en": "Montegiardino",
+        "slug": "montegiardino-sm07"
+      },
+      "code": {
+        "id": "SM07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.91",
+        "lon": "12.489"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/montegiardino-sm07/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM08",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Fiorentino",
+        "en": "Fiorentino",
+        "slug": "fiorentino-sm08"
+      },
+      "code": {
+        "id": "SM08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.906",
+        "lon": "12.475"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/fiorentino-sm08/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    },
+    {
+      "id": "SM09",
+      "level": 1,
+      "level_name": {
+        "local": "Castello",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "Chiesanuova",
+        "en": "Chiesanuova",
+        "slug": "chiesanuova-sm09"
+      },
+      "code": {
+        "id": "SM09",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "43.909",
+        "lon": "12.421"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/sm/castellos/chiesanuova-sm09/",
+        "api": "https://openadmindata.org/api/sm/"
+      }
+    }
+  ]
+}

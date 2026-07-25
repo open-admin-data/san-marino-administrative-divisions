@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "San Marino Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-25"
+url: "https://github.com/open-admin-data/san-marino-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/san-marino-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - san marino
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of San Marino's administrative hierarchy:
+  9 municipalitys, 20 localitys.
+  Bilingual with coordinates and postal codes where available.

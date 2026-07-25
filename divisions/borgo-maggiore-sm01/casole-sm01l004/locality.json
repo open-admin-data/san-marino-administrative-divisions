@@ -1,0 +1,45 @@
+{
+  "id": "SM01L004",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Casole",
+    "en": "Casole",
+    "slug": "casole-sm01l004"
+  },
+  "code": {
+    "id": "SM01L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM01",
+    "level": 1,
+    "name": {
+      "local": "Borgo Maggiore",
+      "en": "Borgo Maggiore",
+      "slug": "borgo-maggiore-sm01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.917",
+    "lon": "12.444"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SM06",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Faetano",
+    "en": "Faetano",
+    "slug": "faetano-sm06"
+  },
+  "code": {
+    "id": "SM06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.932",
+    "lon": "12.498"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/faetano-sm06/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

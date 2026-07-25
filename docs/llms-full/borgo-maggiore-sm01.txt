@@ -1,0 +1,34 @@
+# Borgo Maggiore — San Marino Administrative Divisions
+
+> 5 localitys
+> Code: SM01
+> Coordinates: 43.946, 12.457
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Borgo Maggiore
+
+Code: SM01L002, Coordinates: 43.942, 12.447
+
+
+### Ca Rigo
+
+Code: SM01L003, Coordinates: 43.943, 12.445
+
+
+### Casole
+
+Code: SM01L004, Coordinates: 43.917, 12.444
+
+
+### Murata
+
+Code: SM01L005, Coordinates: 43.92, 12.451
+
+
+### Valdragone
+
+Code: SM01L001, Coordinates: 43.94, 12.456
+
+

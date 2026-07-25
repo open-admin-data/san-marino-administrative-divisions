@@ -1,0 +1,33 @@
+{
+  "id": "SM04",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Serravalle",
+    "en": "Serravalle",
+    "slug": "serravalle-sm04"
+  },
+  "code": {
+    "id": "SM04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.97",
+    "lon": "12.486"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/serravalle-sm04/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

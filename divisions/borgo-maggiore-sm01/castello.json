@@ -1,0 +1,33 @@
+{
+  "id": "SM01",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Borgo Maggiore",
+    "en": "Borgo Maggiore",
+    "slug": "borgo-maggiore-sm01"
+  },
+  "code": {
+    "id": "SM01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.946",
+    "lon": "12.457"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/borgo-maggiore-sm01/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

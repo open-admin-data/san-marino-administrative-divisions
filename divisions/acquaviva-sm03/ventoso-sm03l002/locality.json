@@ -1,0 +1,45 @@
+{
+  "id": "SM03L002",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ventoso",
+    "en": "Ventoso",
+    "slug": "ventoso-sm03l002"
+  },
+  "code": {
+    "id": "SM03L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM03",
+    "level": 1,
+    "name": {
+      "local": "Acquaviva",
+      "en": "Acquaviva",
+      "slug": "acquaviva-sm03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM03",
+      "level": 1,
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.955",
+    "lon": "12.44"
+  },
+  "metadata": {},
+  "source": {}
+}

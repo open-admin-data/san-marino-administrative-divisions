@@ -1,0 +1,45 @@
+{
+  "id": "SM02L001",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Santa Mustiola",
+    "en": "Santa Mustiola",
+    "slug": "santa-mustiola-sm02l001"
+  },
+  "code": {
+    "id": "SM02L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM02",
+    "level": 1,
+    "name": {
+      "local": "San Marino",
+      "en": "San Marino",
+      "slug": "san-marino-sm02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM02",
+      "level": 1,
+      "name": {
+        "local": "San Marino",
+        "en": "San Marino",
+        "slug": "san-marino-sm02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.934",
+    "lon": "12.439"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "SM04L001",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Falciano",
+    "en": "Falciano",
+    "slug": "falciano-sm04l001"
+  },
+  "code": {
+    "id": "SM04L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM04",
+    "level": 1,
+    "name": {
+      "local": "Serravalle",
+      "en": "Serravalle",
+      "slug": "serravalle-sm04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM04",
+      "level": 1,
+      "name": {
+        "local": "Serravalle",
+        "en": "Serravalle",
+        "slug": "serravalle-sm04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.983",
+    "lon": "12.5"
+  },
+  "metadata": {},
+  "source": {}
+}

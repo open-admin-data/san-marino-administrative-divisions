@@ -1,0 +1,45 @@
+{
+  "id": "SM05L002",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Fiorina",
+    "en": "Fiorina",
+    "slug": "fiorina-sm05l002"
+  },
+  "code": {
+    "id": "SM05L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM05",
+    "level": 1,
+    "name": {
+      "local": "Domagnano",
+      "en": "Domagnano",
+      "slug": "domagnano-sm05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.958",
+    "lon": "12.477"
+  },
+  "metadata": {},
+  "source": {}
+}

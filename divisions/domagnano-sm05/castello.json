@@ -1,0 +1,33 @@
+{
+  "id": "SM05",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Domagnano",
+    "en": "Domagnano",
+    "slug": "domagnano-sm05"
+  },
+  "code": {
+    "id": "SM05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.945",
+    "lon": "12.478"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/domagnano-sm05/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

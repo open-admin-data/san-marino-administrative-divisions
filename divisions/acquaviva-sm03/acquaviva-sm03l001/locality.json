@@ -1,0 +1,45 @@
+{
+  "id": "SM03L001",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Acquaviva",
+    "en": "Acquaviva",
+    "slug": "acquaviva-sm03l001"
+  },
+  "code": {
+    "id": "SM03L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM03",
+    "level": 1,
+    "name": {
+      "local": "Acquaviva",
+      "en": "Acquaviva",
+      "slug": "acquaviva-sm03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM03",
+      "level": 1,
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.945",
+    "lon": "12.418"
+  },
+  "metadata": {},
+  "source": {}
+}

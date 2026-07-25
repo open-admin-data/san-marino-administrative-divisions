@@ -1,0 +1,11 @@
+# Data from Open Admin Data (https://openadmindata.org/sm/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/san-marino-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.castello,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+SM01,1,Castello,Municipality,Borgo Maggiore,Borgo Maggiore,borgo-maggiore-sm01,SM01,,,,,,5,,43.946,12.457,https://openadmindata.org/sm/castellos/borgo-maggiore-sm01/
+SM02,1,Castello,Municipality,San Marino,San Marino,san-marino-sm02,SM02,,,,,,1,,43.924,12.444,https://openadmindata.org/sm/castellos/san-marino-sm02/
+SM03,1,Castello,Municipality,Acquaviva,Acquaviva,acquaviva-sm03,SM03,,,,,,3,,43.943,12.425,https://openadmindata.org/sm/castellos/acquaviva-sm03/
+SM04,1,Castello,Municipality,Serravalle,Serravalle,serravalle-sm04,SM04,,,,,,2,,43.97,12.486,https://openadmindata.org/sm/castellos/serravalle-sm04/
+SM05,1,Castello,Municipality,Domagnano,Domagnano,domagnano-sm05,SM05,,,,,,4,,43.945,12.478,https://openadmindata.org/sm/castellos/domagnano-sm05/
+SM06,1,Castello,Municipality,Faetano,Faetano,faetano-sm06,SM06,,,,,,2,,43.932,12.498,https://openadmindata.org/sm/castellos/faetano-sm06/
+SM07,1,Castello,Municipality,Montegiardino,Montegiardino,montegiardino-sm07,SM07,,,,,,0,,43.91,12.489,https://openadmindata.org/sm/castellos/montegiardino-sm07/
+SM08,1,Castello,Municipality,Fiorentino,Fiorentino,fiorentino-sm08,SM08,,,,,,2,,43.906,12.475,https://openadmindata.org/sm/castellos/fiorentino-sm08/
+SM09,1,Castello,Municipality,Chiesanuova,Chiesanuova,chiesanuova-sm09,SM09,,,,,,1,,43.909,12.421,https://openadmindata.org/sm/castellos/chiesanuova-sm09/

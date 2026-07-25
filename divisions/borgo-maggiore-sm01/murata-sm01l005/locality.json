@@ -1,0 +1,45 @@
+{
+  "id": "SM01L005",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Murata",
+    "en": "Murata",
+    "slug": "murata-sm01l005"
+  },
+  "code": {
+    "id": "SM01L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM01",
+    "level": 1,
+    "name": {
+      "local": "Borgo Maggiore",
+      "en": "Borgo Maggiore",
+      "slug": "borgo-maggiore-sm01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.92",
+    "lon": "12.451"
+  },
+  "metadata": {},
+  "source": {}
+}

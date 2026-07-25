@@ -1,0 +1,19 @@
+# Faetano — San Marino Administrative Divisions
+
+> 2 localitys
+> Code: SM06
+> Coordinates: 43.932, 12.498
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Faetano
+
+Code: SM06L001, Coordinates: 43.928, 12.498
+
+
+### Torraccia
+
+Code: SM06L002, Coordinates: 43.952, 12.507
+
+

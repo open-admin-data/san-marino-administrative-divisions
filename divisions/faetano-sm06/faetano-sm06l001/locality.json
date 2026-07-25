@@ -1,0 +1,45 @@
+{
+  "id": "SM06L001",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Faetano",
+    "en": "Faetano",
+    "slug": "faetano-sm06l001"
+  },
+  "code": {
+    "id": "SM06L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM06",
+    "level": 1,
+    "name": {
+      "local": "Faetano",
+      "en": "Faetano",
+      "slug": "faetano-sm06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM06",
+      "level": 1,
+      "name": {
+        "local": "Faetano",
+        "en": "Faetano",
+        "slug": "faetano-sm06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.928",
+    "lon": "12.498"
+  },
+  "metadata": {},
+  "source": {}
+}

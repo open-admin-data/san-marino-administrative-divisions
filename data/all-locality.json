@@ -1,0 +1,902 @@
+[
+  {
+    "id": "SM03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Acquaviva",
+      "en": "Acquaviva",
+      "slug": "acquaviva-sm03l001"
+    },
+    "code": {
+      "id": "SM03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM03",
+      "level": 1,
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM03",
+        "level": 1,
+        "name": {
+          "local": "Acquaviva",
+          "en": "Acquaviva",
+          "slug": "acquaviva-sm03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.945",
+      "lon": "12.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Valdragone",
+      "en": "Valdragone",
+      "slug": "valdragone-sm01l001"
+    },
+    "code": {
+      "id": "SM01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.94",
+      "lon": "12.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM09L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Poggio di Chiesanuova",
+      "en": "Poggio di Chiesanuova",
+      "slug": "poggio-di-chiesanuova-sm09l001"
+    },
+    "code": {
+      "id": "SM09L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM09",
+      "level": 1,
+      "name": {
+        "local": "Chiesanuova",
+        "en": "Chiesanuova",
+        "slug": "chiesanuova-sm09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM09",
+        "level": 1,
+        "name": {
+          "local": "Chiesanuova",
+          "en": "Chiesanuova",
+          "slug": "chiesanuova-sm09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.905",
+      "lon": "12.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Faetano",
+      "en": "Faetano",
+      "slug": "faetano-sm06l001"
+    },
+    "code": {
+      "id": "SM06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM06",
+      "level": 1,
+      "name": {
+        "local": "Faetano",
+        "en": "Faetano",
+        "slug": "faetano-sm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM06",
+        "level": 1,
+        "name": {
+          "local": "Faetano",
+          "en": "Faetano",
+          "slug": "faetano-sm06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.928",
+      "lon": "12.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Monte Giardino",
+      "en": "Monte Giardino",
+      "slug": "monte-giardino-sm08l001"
+    },
+    "code": {
+      "id": "SM08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM08",
+      "level": 1,
+      "name": {
+        "local": "Fiorentino",
+        "en": "Fiorentino",
+        "slug": "fiorentino-sm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM08",
+        "level": 1,
+        "name": {
+          "local": "Fiorentino",
+          "en": "Fiorentino",
+          "slug": "fiorentino-sm08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.909",
+      "lon": "12.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Borgo Maggiore",
+      "en": "Borgo Maggiore",
+      "slug": "borgo-maggiore-sm01l002"
+    },
+    "code": {
+      "id": "SM01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.942",
+      "lon": "12.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ca Rigo",
+      "en": "Ca Rigo",
+      "slug": "ca-rigo-sm01l003"
+    },
+    "code": {
+      "id": "SM01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.943",
+      "lon": "12.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ventoso",
+      "en": "Ventoso",
+      "slug": "ventoso-sm03l002"
+    },
+    "code": {
+      "id": "SM03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM03",
+      "level": 1,
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM03",
+        "level": 1,
+        "name": {
+          "local": "Acquaviva",
+          "en": "Acquaviva",
+          "slug": "acquaviva-sm03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.955",
+      "lon": "12.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM02L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Santa Mustiola",
+      "en": "Santa Mustiola",
+      "slug": "santa-mustiola-sm02l001"
+    },
+    "code": {
+      "id": "SM02L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM02",
+      "level": 1,
+      "name": {
+        "local": "San Marino",
+        "en": "San Marino",
+        "slug": "san-marino-sm02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM02",
+        "level": 1,
+        "name": {
+          "local": "San Marino",
+          "en": "San Marino",
+          "slug": "san-marino-sm02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.934",
+      "lon": "12.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Casole",
+      "en": "Casole",
+      "slug": "casole-sm01l004"
+    },
+    "code": {
+      "id": "SM01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.917",
+      "lon": "12.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Falciano",
+      "en": "Falciano",
+      "slug": "falciano-sm04l001"
+    },
+    "code": {
+      "id": "SM04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM04",
+      "level": 1,
+      "name": {
+        "local": "Serravalle",
+        "en": "Serravalle",
+        "slug": "serravalle-sm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM04",
+        "level": 1,
+        "name": {
+          "local": "Serravalle",
+          "en": "Serravalle",
+          "slug": "serravalle-sm04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.983",
+      "lon": "12.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Torraccia",
+      "en": "Torraccia",
+      "slug": "torraccia-sm06l002"
+    },
+    "code": {
+      "id": "SM06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM06",
+      "level": 1,
+      "name": {
+        "local": "Faetano",
+        "en": "Faetano",
+        "slug": "faetano-sm06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM06",
+        "level": 1,
+        "name": {
+          "local": "Faetano",
+          "en": "Faetano",
+          "slug": "faetano-sm06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.952",
+      "lon": "12.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cerbaiola",
+      "en": "Cerbaiola",
+      "slug": "cerbaiola-sm08l002"
+    },
+    "code": {
+      "id": "SM08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM08",
+      "level": 1,
+      "name": {
+        "local": "Fiorentino",
+        "en": "Fiorentino",
+        "slug": "fiorentino-sm08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM08",
+        "level": 1,
+        "name": {
+          "local": "Fiorentino",
+          "en": "Fiorentino",
+          "slug": "fiorentino-sm08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.903",
+      "lon": "12.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gualdicciolo",
+      "en": "Gualdicciolo",
+      "slug": "gualdicciolo-sm03l003"
+    },
+    "code": {
+      "id": "SM03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM03",
+      "level": 1,
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM03",
+        "level": 1,
+        "name": {
+          "local": "Acquaviva",
+          "en": "Acquaviva",
+          "slug": "acquaviva-sm03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.95",
+      "lon": "12.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lesignano",
+      "en": "Lesignano",
+      "slug": "lesignano-sm05l001"
+    },
+    "code": {
+      "id": "SM05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.962",
+      "lon": "12.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dogana",
+      "en": "Dogana",
+      "slug": "dogana-sm04l002"
+    },
+    "code": {
+      "id": "SM04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM04",
+      "level": 1,
+      "name": {
+        "local": "Serravalle",
+        "en": "Serravalle",
+        "slug": "serravalle-sm04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM04",
+        "level": 1,
+        "name": {
+          "local": "Serravalle",
+          "en": "Serravalle",
+          "slug": "serravalle-sm04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.98",
+      "lon": "12.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Murata",
+      "en": "Murata",
+      "slug": "murata-sm01l005"
+    },
+    "code": {
+      "id": "SM01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.92",
+      "lon": "12.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fiorina",
+      "en": "Fiorina",
+      "slug": "fiorina-sm05l002"
+    },
+    "code": {
+      "id": "SM05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.958",
+      "lon": "12.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Piandivello",
+      "en": "Piandivello",
+      "slug": "piandivello-sm05l003"
+    },
+    "code": {
+      "id": "SM05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.95",
+      "lon": "12.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cailungo",
+      "en": "Cailungo",
+      "slug": "cailungo-sm05l004"
+    },
+    "code": {
+      "id": "SM05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM05",
+      "level": 1,
+      "name": {
+        "local": "Domagnano",
+        "en": "Domagnano",
+        "slug": "domagnano-sm05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM05",
+        "level": 1,
+        "name": {
+          "local": "Domagnano",
+          "en": "Domagnano",
+          "slug": "domagnano-sm05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.952",
+      "lon": "12.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

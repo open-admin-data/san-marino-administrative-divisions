@@ -1,0 +1,33 @@
+{
+  "id": "SM09",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Chiesanuova",
+    "en": "Chiesanuova",
+    "slug": "chiesanuova-sm09"
+  },
+  "code": {
+    "id": "SM09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.909",
+    "lon": "12.421"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/chiesanuova-sm09/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

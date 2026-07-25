@@ -1,0 +1,29 @@
+# San Marino Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Per-Municipality Data Files
+
+- [Borgo Maggiore](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/borgo-maggiore-sm01.txt) — 5 localitys
+- [San Marino](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/san-marino-sm02.txt) — 1 localitys
+- [Acquaviva](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/acquaviva-sm03.txt) — 3 localitys
+- [Serravalle](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/serravalle-sm04.txt) — 2 localitys
+- [Domagnano](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/domagnano-sm05.txt) — 4 localitys
+- [Faetano](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/faetano-sm06.txt) — 2 localitys
+- [Montegiardino](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/montegiardino-sm07.txt) — 0 localitys
+- [Fiorentino](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/fiorentino-sm08.txt) — 2 localitys
+- [Chiesanuova](https://github.com/open-admin-data/san-marino-administrative-divisions/blob/main/docs/llms-full/chiesanuova-sm09.txt) — 1 localitys
+
+## Summary
+
+| Municipality | Localitys | 
+|---|---|
+| Borgo Maggiore | 5 | 
+| San Marino | 1 | 
+| Acquaviva | 3 | 
+| Serravalle | 2 | 
+| Domagnano | 4 | 
+| Faetano | 2 | 
+| Montegiardino | 0 | 
+| Fiorentino | 2 | 
+| Chiesanuova | 1 | 

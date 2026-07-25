@@ -1,0 +1,227 @@
+[
+  {
+    "id": "SM01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Borgo Maggiore",
+      "en": "Borgo Maggiore",
+      "slug": "borgo-maggiore-sm01l002"
+    },
+    "code": {
+      "id": "SM01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.942",
+      "lon": "12.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ca Rigo",
+      "en": "Ca Rigo",
+      "slug": "ca-rigo-sm01l003"
+    },
+    "code": {
+      "id": "SM01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.943",
+      "lon": "12.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Casole",
+      "en": "Casole",
+      "slug": "casole-sm01l004"
+    },
+    "code": {
+      "id": "SM01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.917",
+      "lon": "12.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Murata",
+      "en": "Murata",
+      "slug": "murata-sm01l005"
+    },
+    "code": {
+      "id": "SM01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.92",
+      "lon": "12.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SM01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Località",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Valdragone",
+      "en": "Valdragone",
+      "slug": "valdragone-sm01l001"
+    },
+    "code": {
+      "id": "SM01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SM01",
+      "level": 1,
+      "name": {
+        "local": "Borgo Maggiore",
+        "en": "Borgo Maggiore",
+        "slug": "borgo-maggiore-sm01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SM01",
+        "level": 1,
+        "name": {
+          "local": "Borgo Maggiore",
+          "en": "Borgo Maggiore",
+          "slug": "borgo-maggiore-sm01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "43.94",
+      "lon": "12.456"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

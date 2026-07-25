@@ -1,0 +1,29 @@
+# Domagnano — San Marino Administrative Divisions
+
+> 4 localitys
+> Code: SM05
+> Coordinates: 43.945, 12.478
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Cailungo
+
+Code: SM05L004, Coordinates: 43.952, 12.454
+
+
+### Fiorina
+
+Code: SM05L002, Coordinates: 43.958, 12.477
+
+
+### Lesignano
+
+Code: SM05L001, Coordinates: 43.962, 12.484
+
+
+### Piandivello
+
+Code: SM05L003, Coordinates: 43.95, 12.487
+
+

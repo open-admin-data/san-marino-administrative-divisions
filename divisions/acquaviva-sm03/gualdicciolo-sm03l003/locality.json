@@ -1,0 +1,45 @@
+{
+  "id": "SM03L003",
+  "level": 2,
+  "level_name": {
+    "local": "Località",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Gualdicciolo",
+    "en": "Gualdicciolo",
+    "slug": "gualdicciolo-sm03l003"
+  },
+  "code": {
+    "id": "SM03L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "SM03",
+    "level": 1,
+    "name": {
+      "local": "Acquaviva",
+      "en": "Acquaviva",
+      "slug": "acquaviva-sm03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SM03",
+      "level": 1,
+      "name": {
+        "local": "Acquaviva",
+        "en": "Acquaviva",
+        "slug": "acquaviva-sm03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.95",
+    "lon": "12.407"
+  },
+  "metadata": {},
+  "source": {}
+}

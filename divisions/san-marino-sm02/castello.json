@@ -1,0 +1,33 @@
+{
+  "id": "SM02",
+  "level": 1,
+  "level_name": {
+    "local": "Castello",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "San Marino",
+    "en": "San Marino",
+    "slug": "san-marino-sm02"
+  },
+  "code": {
+    "id": "SM02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "43.924",
+    "lon": "12.444"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sm/castellos/san-marino-sm02/",
+    "api": "https://openadmindata.org/api/sm/"
+  }
+}

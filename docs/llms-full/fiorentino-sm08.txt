@@ -1,0 +1,19 @@
+# Fiorentino — San Marino Administrative Divisions
+
+> 2 localitys
+> Code: SM08
+> Coordinates: 43.906, 12.475
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Cerbaiola
+
+Code: SM08L002, Coordinates: 43.903, 12.477
+
+
+### Monte Giardino
+
+Code: SM08L001, Coordinates: 43.909, 12.482
+
+

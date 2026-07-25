@@ -1,0 +1,14 @@
+# San Marino — San Marino Administrative Divisions
+
+> 1 localitys
+> Code: SM02
+> Coordinates: 43.924, 12.444
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Localitys
+
+### Santa Mustiola
+
+Code: SM02L001, Coordinates: 43.934, 12.439
+
+
