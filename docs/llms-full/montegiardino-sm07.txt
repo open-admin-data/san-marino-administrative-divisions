@@ -3,7 +3,7 @@
 > 0 localitys
 > Code: SM07
 > Coordinates: 43.91, 12.489
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
