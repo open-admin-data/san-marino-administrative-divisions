@@ -3,7 +3,7 @@
 > 1 localitys
 > Code: SM09
 > Coordinates: 43.909, 12.421
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Localitys
 
